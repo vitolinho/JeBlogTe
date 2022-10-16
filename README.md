@@ -1,11 +1,11 @@
 ### <p align="center">JeBlogTe</p>
 
 Dans le cadre du cours de back-end dans mon [école](https://www.hetic.net/), j'ai eu à réaliser un blog.<br/>
-La consigne était que je devais utiliser obligatoirement Docker et Php sans aucune autre technologie impliquée.<br/>
+La consigne était que je devais utiliser obligatoirement Docker, Php et Mysql sans aucune autre technologie impliquée.<br/>
 
 ## Objectifs du projet
 
-- Renforcer mes compétences en back avec Php.
+- Renforcer mes compétences en back avec Php et Mysql.
 - Apprendre à travailler avec Docker.
 
 ## Fonctionnalités
