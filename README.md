@@ -20,4 +20,4 @@ La consigne était que je devais utiliser obligatoirement Docker, Php et Mysql s
 
 ## Technologies utilisées
 
-[Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
