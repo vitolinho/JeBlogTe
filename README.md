@@ -21,12 +21,16 @@ La consigne était que je devais utiliser obligatoirement Docker, Php et Mysql s
 
 ## Captures d'écran
 
-<img src="img/index.png" alt="image de mon index.php" width="15%">
-<img src="img/createuser.png" alt="image de la création d'un compte">
-<img src="img/homepage-user.png" alt="image de mon homepage côté user">
-<img src="img/homepage-admin.png" alt="image de mon homepage côté admin">
-<img src="img/voir-article.png" alt="image quand on est dans un article">
-<img src="img/ajt-article.png" alt="image qunad on ajoute un article">
+<div>
+  <img src="img/index.png" alt="image de mon index.php" width="35%">
+  <img src="img/createuser.png" alt="image de la création d'un compte" width="35%">
+  <img src="img/homepage-user.png" alt="image de mon homepage côté user" width="35%">
+</div>
+<div>
+  <img src="img/homepage-admin.png" alt="image de mon homepage côté admin" width="35%">
+  <img src="img/voir-article.png" alt="image quand on est dans un article" width="35%">
+  <img src="img/ajt-article.png" alt="image qunad on ajoute un article" width="35%">
+ </div>
 
 ## Technologies utilisées
 
