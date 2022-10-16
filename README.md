@@ -1,7 +1,7 @@
 ### <p align="center">JeBlogTe</p>
 
 Dans le cadre du cours de back-end dans mon [école](https://www.hetic.net/), j'ai eu à réaliser un blog.<br/>
-La consigne était que nous je devais utiliser obligatoirement Docker et Php sans aucune autre technologie impliquée.<br/>
+La consigne était que je devais utiliser obligatoirement Docker et Php sans aucune autre technologie impliquée.<br/>
 
 ## Objectifs du projet
 
