@@ -22,8 +22,8 @@ La consigne était que je devais utiliser obligatoirement Docker, Php et Mysql s
 ## Captures d'écran
 
 <div>
-  <img src="img/index.png" alt="image de mon index.php" width="50%">
-  <img src="img/createuser.png" alt="image de la création d'un compte" width="50%">
+  <img src="img/index.png" alt="image de mon index.php" width="45%">
+  <img src="img/createuser.png" alt="image de la création d'un compte" width="45%">
   <img src="img/homepage-user.png" alt="image de mon homepage côté user" width="35%">
 </div>
 <div>
