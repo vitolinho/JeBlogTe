@@ -17,6 +17,7 @@ La consigne était que je devais utiliser obligatoirement Docker, Php et Mysql s
 -  Ajouter un article.
 -  En tant qu'utilisateur normal, pouvoir supprimer seulement ses articles.
 -  En tant qu'admin, pouvori supprimer n'importe quel article.
+-  Se déconnecter.
 
 ## Technologies utilisées
 
