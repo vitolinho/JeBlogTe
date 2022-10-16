@@ -21,7 +21,7 @@ La consigne était que je devais utiliser obligatoirement Docker, Php et Mysql s
 
 ## Captures d'écran
 
-img à mettre
+<img src="img/index.png" alt="image de mon index.php">
 
 ## Technologies utilisées
 
